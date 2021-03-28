@@ -5,7 +5,7 @@ import json
 
 
 YOUTUBE_HTTP_REQUEST = "https://www.googleapis.com/youtube/v3"
-API_KEY = "AIzaSyAiNsX3NmzpOZsmgXSMs4exd_6Js449V5k"
+API_KEY = #API KEY
 
 
 class Search:
